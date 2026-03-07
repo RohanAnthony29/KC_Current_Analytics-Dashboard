@@ -1,0 +1,15 @@
+team_name,games_played,wins,draws,losses,goals_for,goals_against,goal_diff,points,ppg,is_kc,position
+Kansas City Current,26,21,2,3,49,13,36,65,2.5,True,1
+Washington Spirit,26,12,8,6,42,33,9,44,1.69,False,2
+Portland Thorns,26,11,7,8,36,29,7,40,1.54,False,3
+Orlando Pride,26,11,6,9,35,28,7,39,1.5,False,4
+Gotham FC,26,11,5,10,34,30,4,38,1.46,False,5
+NC Courage,26,10,5,11,32,29,3,35,1.35,False,6
+Racing Louisville,26,9,6,11,30,35,-5,33,1.27,False,7
+Chicago Stars,26,9,4,13,28,38,-10,31,1.19,False,8
+Bay FC,26,8,6,12,27,34,-7,30,1.15,False,9
+San Diego Wave,26,8,5,13,26,36,-10,29,1.12,False,10
+Houston Dash,26,8,4,14,25,35,-10,28,1.08,False,11
+Angel City FC,26,7,5,14,24,37,-13,26,1.0,False,12
+Utah Royals,26,6,5,15,22,40,-18,23,0.88,False,13
+Seattle Reign,26,5,4,17,20,43,-23,19,0.73,False,14

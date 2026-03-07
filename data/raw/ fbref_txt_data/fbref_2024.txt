@@ -1,0 +1,212 @@
+Standard Stats 2024 Kansas City Current: NWSL 
+GlossaryToggle Per90 Stats
+Playing Time	Performance	Per 90 Minutes	
+Player	Nation	Pos	Age	MP	Starts	Min	90s	Gls	Ast	G+A	G-PK	PK	PKatt	CrdY	CrdR	Gls	Ast	G+A	G-PK	G+A-PK	Matches
+Temwa Chaŵinga	mw MWI	MF,FW	25	25	24	2,142	23.8	20	5	25	20	0	0	1	0	0.84	0.21	1.05	0.84	1.05	Matches
+Lo'eau LaBonta	us USA	MF	30	24	21	1,920	21.3	6	1	7	3	3	3	2	0	0.28	0.05	0.33	0.14	0.19	Matches
+Hailie Mace	us USA	DF	26	23	20	1,798	20.0	0	1	1	0	0	0	5	0	0.00	0.05	0.05	0.00	0.05	Matches
+Vanessa DiBernardo	us USA	MF,FW	31	23	20	1,531	17.0	5	6	11	5	0	0	3	0	0.29	0.35	0.65	0.29	0.65	Matches
+Claire Hutton	us USA	MF	18	22	19	1,653	18.4	0	1	1	0	0	0	3	0	0.00	0.05	0.05	0.00	0.05	Matches
+Izzy Rodriguez	us USA	DF	24	21	18	1,513	16.8	1	2	3	1	0	0	1	0	0.06	0.12	0.18	0.06	0.18	Matches
+Adrianna Franch	us USA	GK	33	17	17	1,530	17.0	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+Debinha	br BRA	MF,FW	32	22	17	1,464	16.3	3	6	9	3	0	0	0	0	0.18	0.37	0.55	0.18	0.55	Matches
+Michelle Cooper	us USA	MF,FW	21	21	15	1,344	14.9	3	2	5	3	0	0	2	0	0.20	0.13	0.33	0.20	0.33	Matches
+Ellie Wheeler	us USA	DF,MF	22	23	14	1,429	15.9	1	0	1	1	0	0	2	0	0.06	0.00	0.06	0.06	0.06	Matches
+Elizabeth Ball	us USA	DF	28	19	12	1,221	13.6	1	3	4	1	0	0	0	0	0.07	0.22	0.29	0.07	0.29	Matches
+Stine Ballisager Pedersen	dk DEN	DF	30	18	11	1,067	11.9	1	0	1	1	0	0	0	0	0.08	0.00	0.08	0.08	0.08	Matches
+Gabrielle Robinson	us USA	DF	22	11	11	925	10.3	1	0	1	1	0	0	2	0	0.10	0.00	0.10	0.10	0.10	Matches
+Beatriz	br BRA	FW	30	16	11	866	9.6	5	4	9	5	0	0	0	0	0.52	0.42	0.94	0.52	0.94	Matches
+Alana Cook	us USA	DF	26	10	10	855	9.5	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+Almuth Schult	de GER	GK	32	9	9	810	9.0	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+Nichelle Prince	ca CAN	FW,MF	28	13	9	732	8.1	2	2	4	2	0	0	0	0	0.25	0.25	0.49	0.25	0.49	Matches
+Kayla Sharples	us USA	DF	26	8	8	689	7.7	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+Alexa Spaanstra	us USA	MF,FW	23	11	8	592	6.6	1	1	2	1	0	0	1	0	0.15	0.15	0.30	0.15	0.30	Matches
+Bayley Feist	us USA	MF	26	16	6	572	6.4	1	0	1	1	0	0	0	0	0.16	0.00	0.16	0.16	0.16	Matches
+Claire Lavogez	fr FRA	FW,MF	29	14	4	481	5.3	2	0	2	2	0	0	2	0	0.37	0.00	0.37	0.37	0.37	Matches
+Lauren	br BRA	DF	21	3	1	78	0.9	1	0	1	1	0	0	0	0	1.15	0.00	1.15	1.15	1.15	Matches
+Regan Steigleder	no NOR	DF	25	3	1	72	0.8	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+Alex Pfeiffer	us USA	FW	16	10	0	138	1.5	1	0	1	1	0	0	0	0	0.65	0.00	0.65	0.65	0.65	Matches
+Desiree Scott	ca CAN	MF	36	11	0	136	1.5	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+Kristen Hamilton	us USA	FW,MF	31	3	0	87	1.0	1	0	1	1	0	0	0	0	1.03	0.00	1.03	1.03	1.03	Matches
+Hildah Magaia	za RSA	FW	29	6	0	50	0.6	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+Mwanalima Jereko	ke KEN	MF	26	3	0	45	0.5	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+Sophia Braun	ar ARG	DF	24	0	0																Matches
+Hanna Glas	se SWE	DF	30	0	0																Matches
+Jordan Silkowitz	us USA	GK	23	0	0																Matches
+Squad Total			27.1	26	286	2,340	26.0	56	34	90	53	3	3	27	0	2.15	1.31	3.46	2.04	3.35	
+Opponent Total			27.0	26	286	2,340	26.0	29	21	50	28	1	1	28	2	1.12	0.81	1.92	1.08	1.88	
+Totals may not be complete for all senior-level play, see coverage note.
+2024 Match Log Types
+Scores & FixturesShootingGoalkeepingMiscellaneous Stats
+Scores & Fixtures 2024 Kansas City Current: All Competitions 
+Glossary
+Date	Time	Comp	Round	Day	Venue	Result	GF	GA	Opponent	Poss	Attendance	Captain	Formation	Opp Formation	Referee	Match Report	Notes
+2024-03-16	12:00	NWSL	Regular Season	Sat	Home	W	5	4	Portland Thorns	46	11,500	Lo'eau LaBonta	4-3-3	4-3-3	Alex Billeter	Match Report	
+2024-03-23	19:00 (21:00)	NWSL	Regular Season	Sat	Away	W	2	1	SD Wave	34	32,066	Lo'eau LaBonta	4-2-3-1	4-2-3-1		Match Report	
+2024-03-30	14:30	NWSL	Regular Season	Sat	Home	W	4	2	Angel City FC	42	11,500	Lo'eau LaBonta	4-3-3	4-3-3		Match Report	
+2024-04-14	18:00 (17:00)	NWSL	Regular Season	Sun	Away	D	1	1	Gotham FC	40	8,573	Adrianna Franch	4-2-3-1	4-3-3		Match Report	
+2024-04-20	18:30	NWSL	Regular Season	Sat	Home	W	5	2	Bay FC	37	11,500	Adrianna Franch	4-2-3-1	4-3-3	Rebecca Pagan	Match Report	
+2024-04-26	19:00 (21:00)	NWSL	Regular Season	Fri	Away	W	3	1	Angel City FC	51	19,178	Adrianna Franch	4-2-3-1	3-4-3		Match Report	
+2024-05-05	12:00	NWSL	Regular Season	Sun	Away	D	1	1	Houston Dash	57	5,099	Adrianna Franch	4-3-3	3-5-2		Match Report	
+2024-05-08	19:00 (21:00)	NWSL	Regular Season	Wed	Away	D	0	0	Reign	60	5,083	Adrianna Franch	4-3-3	4-4-2		Match Report	
+2024-05-12	17:00	NWSL	Regular Season	Sun	Home	W	1	0	NC Courage	45	11,500	Lo'eau LaBonta	4-4-2	4-2-3-1	Adam Kilpatrick	Match Report	
+2024-05-18	20:30	NWSL	Regular Season	Sat	Home	D	3	3	Racing Louisville	52	11,500	Lo'eau LaBonta	4-2-3-1	4-2-3-1	Nabil Bensalah	Match Report	
+2024-05-25	20:00 (21:00)	NWSL	Regular Season	Sat	Away	W	1	0	Royals	45	7,491	Lo'eau LaBonta	4-2-3-1	3-5-2		Match Report	
+2024-06-09	17:00	NWSL	Regular Season	Sun	Home	W	5	2	Reign	51	11,500	Lo'eau LaBonta	4-4-2	4-4-2	Brad Jensen	Match Report	
+2024-06-14	19:00	NWSL	Regular Season	Fri	Home	D	2	2	Red Stars	63	11,500	Lo'eau LaBonta	4-4-2	4-4-2	Gerald Flores	Match Report	
+2024-06-23	13:00 (15:00)	NWSL	Regular Season	Sun	Away	W	4	1	Portland Thorns	48	20,024	Lo'eau LaBonta	4-2-3-1	4-2-3-1		Match Report	
+2024-06-28	19:00	NWSL	Regular Season	Fri	Home	W	2	0	Houston Dash	53	11,500	Lo'eau LaBonta	4-2-3-1	3-4-3	Greg Dopka	Match Report	
+2024-07-06	18:30	NWSL	Regular Season	Sat	Home	L	1	2	Orlando Pride	57	11,500	Lo'eau LaBonta	4-2-3-1	4-4-1-1	Joshua Encarnación	Match Report	
+2024-08-25	12:00 (11:00)	NWSL	Regular Season	Sun	Away	L	1	4	Washington Spirit	51	17,130	Lo'eau LaBonta	4-3-3	4-3-3	Brad Jensen	Match Report	
+2024-09-01	14:00 (13:00)	NWSL	Regular Season	Sun	Away	L	1	2	NC Courage	37	6,003	Lo'eau LaBonta	4-2-3-1	4-3-3	Elvis Osmanovic	Match Report	
+2024-09-07	18:30	NWSL	Regular Season	Sat	Home	W	1	0	Royals	56	11,500	Lo'eau LaBonta	4-1-3-2	4-3-3	Calin Radosav	Match Report	
+2024-09-13	20:00 (19:00)	NWSL	Regular Season	Fri	Away	D	0	0	Orlando Pride	48	9,396	Lo'eau LaBonta	4-3-3	4-2-3-1	Alyssa Nichols	Match Report	
+2024-09-20	19:00	NWSL	Regular Season	Fri	Home	W	3	0	Washington Spirit	40	11,500	Lo'eau LaBonta	4-2-3-1	4-2-3-1	Matthew Thompson	Match Report	
+2024-09-28	12:00	NWSL	Regular Season	Sat	Home	D	1	1	Gotham FC	41	11,500	Lo'eau LaBonta	4-2-3-1	4-1-4-1	Katja Koroleva	Match Report	
+2024-10-05	19:30 (18:30)	NWSL	Regular Season	Sat	Away	W	2	0	Racing Louisville	49	6,013	Lo'eau LaBonta	4-2-3-1	4-2-3-1	Mathew Corrigan	Match Report	
+2024-10-12	19:00 (21:00)	NWSL	Regular Season	Sat	Away	W	1	0	Bay FC	43	12,974	Lo'eau LaBonta	4-2-3-1	4-3-3	Danielle Chesky	Match Report	
+2024-10-19	12:00	NWSL	Regular Season	Sat	Home	W	4	1	SD Wave	42	11,500	Lo'eau LaBonta	4-3-3	4-2-3-1	Iryna Petrunok	Match Report	
+2024-11-03	14:00	NWSL	Regular Season	Sun	Away	W	3	1	Red Stars	45	5,595	Lo'eau LaBonta	4-3-3	4-2-3-1	Jaclyn Metz	Match Report	
+2024-11-09	11:00	NWSL	Quarterfinals	Sat	Home	W	1	0	NC Courage	36	11,500	Lo'eau LaBonta	4-3-3	4-3-3	Brad Jensen	Match Report	
+2024-11-17	15:00 (14:00)	NWSL	Semifinals	Sun	Away	L	2	3	Orlando Pride	52	14,524	Lo'eau LaBonta	4-3-3	4-4-2	Danielle Chesky	Match Report	
+Includes all matches from 2024-01-01 to 2024-12-31
+
+Goalkeeping 2024 Kansas City Current: NWSL 
+GlossaryToggle Per90 Stats
+Playing Time	Performance	Penalty Kicks	
+Player	Nation	Pos	Age	MP	Starts	Min	90s	GA	GA90	SoTA	Saves	Save%	W	D	L	CS	CS%	PKatt	PKA	PKsv	PKm	Save%	Matches
+Adrianna Franch	us USA	GK	33	17	17	1,530	17.0	25	1.47	70	46	65.7	10	5	2	5	29.4	1	1	0	0	0.0	Matches
+Almuth Schult	de GER	GK	32	9	9	810	9.0	4	0.44	37	33	89.2	6	2	1	5	55.6	0	0	0	0		Matches
+Squad Total			27.1	26	26	2,340	26.0	31	1.19	108	79	72.2	16	7	3	9	34.6	1	1	0	0	0.0	
+Opponent Total			27.0	26	26	2,340	26.0	57	2.19	165	109	67.3	3	7	16	2	7.7	3	3	0	0	0.0	
+Totals may not be complete for all senior-level play, see coverage note.
+Shooting 2024 Kansas City Current: NWSL 
+GlossaryToggle Per90 Stats
+Standard	
+Player	Nation	Pos	Age	90s	Gls	Sh	SoT	SoT%	Sh/90	SoT/90	G/Sh	G/SoT	PK	PKatt	Matches
+Temwa Chaŵinga	mw MWI	MF,FW	25	23.8	20	100	56	56.0	4.20	2.35	0.20	0.36	0	0	Matches
+Lo'eau LaBonta	us USA	MF	30	21.3	6	32	11	34.4	1.50	0.52	0.09	0.27	3	3	Matches
+Hailie Mace	us USA	DF	26	20.0	0	15	2	13.3	0.75	0.10	0.00	0.00	0	0	Matches
+Vanessa DiBernardo	us USA	MF,FW	31	17.0	5	35	8	22.9	2.06	0.47	0.14	0.63	0	0	Matches
+Claire Hutton	us USA	MF	18	18.4	0	30	8	26.7	1.63	0.44	0.00	0.00	0	0	Matches
+Izzy Rodriguez	us USA	DF	24	16.8	1	12	3	25.0	0.71	0.18	0.08	0.33	0	0	Matches
+Adrianna Franch	us USA	GK	33	17.0	0	0	0		0.00	0.00			0	0	Matches
+Debinha	br BRA	MF,FW	32	16.3	3	42	11	26.2	2.58	0.68	0.07	0.27	0	0	Matches
+Michelle Cooper	us USA	MF,FW	21	14.9	3	39	10	25.6	2.61	0.67	0.08	0.30	0	0	Matches
+Ellie Wheeler	us USA	DF,MF	22	15.9	1	9	5	55.6	0.57	0.31	0.11	0.20	0	0	Matches
+Elizabeth Ball	us USA	DF	28	13.6	1	4	2	50.0	0.29	0.15	0.25	0.50	0	0	Matches
+Stine Ballisager Pedersen	dk DEN	DF	30	11.9	1	3	1	33.3	0.25	0.08	0.33	1.00	0	0	Matches
+Gabrielle Robinson	us USA	DF	22	10.3	1	7	2	28.6	0.68	0.19	0.14	0.50	0	0	Matches
+Beatriz	br BRA	FW	30	9.6	5	29	10	34.5	3.01	1.04	0.17	0.50	0	0	Matches
+Alana Cook	us USA	DF	26	9.5	0	1	0	0.0	0.11	0.00	0.00		0	0	Matches
+Almuth Schult	de GER	GK	32	9.0	0	0	0		0.00	0.00			0	0	Matches
+Nichelle Prince	ca CAN	FW,MF	28	8.1	2	22	8	36.4	2.70	0.98	0.09	0.25	0	0	Matches
+Kayla Sharples	us USA	DF	26	7.7	0	0	0		0.00	0.00			0	0	Matches
+Alexa Spaanstra	us USA	MF,FW	23	6.6	1	12	5	41.7	1.82	0.76	0.08	0.20	0	0	Matches
+Bayley Feist	us USA	MF	26	6.4	1	19	6	31.6	2.99	0.94	0.05	0.17	0	0	Matches
+Claire Lavogez	fr FRA	FW,MF	29	5.3	2	20	9	45.0	3.74	1.68	0.10	0.22	0	0	Matches
+Lauren	br BRA	DF	21	0.9	1	4	2	50.0	4.62	2.31	0.25	0.50	0	0	Matches
+Regan Steigleder	no NOR	DF	25	0.8	0	1	0	0.0	1.25	0.00	0.00		0	0	Matches
+Alex Pfeiffer	us USA	FW	16	1.5	1	1	1	100.0	0.65	0.65	1.00	1.00	0	0	Matches
+Desiree Scott	ca CAN	MF	36	1.5	0	0	0		0.00	0.00			0	0	Matches
+Kristen Hamilton	us USA	FW,MF	31	1.0	1	2	1	50.0	2.07	1.03	0.50	1.00	0	0	Matches
+Hildah Magaia	za RSA	FW	29	0.6	0	2	1	50.0	3.60	1.80	0.00	0.00	0	0	Matches
+Mwanalima Jereko	ke KEN	MF	26	0.5	0	2	0	0.0	4.00	0.00	0.00		0	0	Matches
+Squad Total			27.1	26.0	56	458	162	35.4	17.62	6.23	0.12	0.33	3	3	
+Opponent Total			27.0	26.0	29	287	107	37.3	11.04	4.12	0.10	0.26	1	1	
+Totals may not be complete for all senior-level play, see coverage note.
+
+Become a Stathead & surf this site ad-free.
+Playing Time 2024 Kansas City Current: NWSL 
+GlossaryToggle Per90 Stats
+Playing Time	Starts	Subs	Team Success	
+Player	Nation	Pos	Age	MP	Min	Mn/MP	Min%	90s	Starts	Mn/Start	Compl	Subs	Mn/Sub	unSub	PPM	onG	onGA	+/-	+/-90	On-Off	Matches
+Temwa Chaŵinga	mw MWI	MF,FW	25	25	2,142	86	91.5	23.8	24	88	19	1	28	0	2.04	50	28	+22	+0.92	-0.89	Matches
+Lo'eau LaBonta	us USA	MF	30	24	1,920	80	82.1	21.3	21	88	16	3	26	0	2.08	47	25	+22	+1.03	+0.17	Matches
+Hailie Mace	us USA	DF	26	23	1,798	78	76.8	20.0	20	84	13	3	38	0	1.96	44	21	+23	+1.15	+0.65	Matches
+Vanessa DiBernardo	us USA	MF,FW	31	23	1,531	67	65.4	17.0	20	71	1	3	37	0	2.08	36	14	+22	+1.29	+0.85	Matches
+Claire Hutton	us USA	MF	18	22	1,653	75	70.6	18.4	19	83	10	3	27	0	2.13	50	25	+25	+1.36	+1.23	Matches
+Izzy Rodriguez	us USA	DF	24	21	1,513	72	64.7	16.8	18	82	13	3	13	5	1.95	36	19	+17	+1.01	+0.03	Matches
+Adrianna Franch	us USA	GK	33	17	1,530	90	65.4	17.0	17	90	17	0		9	2.06	41	26	+15	+0.88	-0.34	Matches
+Debinha	br BRA	MF,FW	32	22	1,464	67	62.6	16.3	17	78	3	5	27	0	2.00	32	15	+17	+1.05	+0.12	Matches
+Michelle Cooper	us USA	MF,FW	21	21	1,344	64	57.4	14.9	15	78	3	6	30	0	2.00	31	16	+15	+1.00	+0.01	Matches
+Ellie Wheeler	us USA	DF,MF	22	23	1,429	62	61.1	15.9	14	87	13	9	24	3	2.04	34	24	+10	+0.63	-0.95	Matches
+Elizabeth Ball	us USA	DF	28	19	1,221	64	52.2	13.6	12	87	10	7	25	7	2.42	35	18	+17	+1.25	+0.53	Matches
+Stine Ballisager Pedersen	dk DEN	DF	30	18	1,067	59	45.6	11.9	11	90	11	7	11	8	2.21	20	17	+3	+0.25	-1.37	Matches
+Gabrielle Robinson	us USA	DF	22	11	925	84	39.5	10.3	11	84	10	0		0	2.27	25	15	+10	+0.97	-0.04	Matches
+Beatriz	br BRA	FW	30	16	866	54	37.0	9.6	11	66	1	5	27	0	2.50	27	10	+17	+1.77	+1.22	Matches
+Alana Cook	us USA	DF	26	10	855	86	36.5	9.5	10	86	8	0		0	1.92	16	8	+8	+0.84	-0.25	Matches
+Almuth Schult	de GER	GK	32	9	810	90	34.6	9.0	9	90	9	0		1	2.09	16	5	+11	+1.22	+0.34	Matches
+Nichelle Prince	ca CAN	FW,MF	28	13	732	56	31.3	8.1	9	68	2	4	30	1	2.00	14	7	+7	+0.86	-0.20	Matches
+Kayla Sharples	us USA	DF	26	8	689	86	29.4	7.7	8	86	7	0		1	2.30	15	3	+12	+1.57	+0.80	Matches
+Alexa Spaanstra	us USA	MF,FW	23	11	592	54	25.3	6.6	8	69	0	3	13	5	2.45	16	8	+8	+1.22	+0.29	Matches
+Bayley Feist	us USA	MF	26	16	572	36	24.4	6.4	6	76	3	10	12	8	1.89	10	8	+2	+0.31	-0.91	Matches
+Claire Lavogez	fr FRA	FW,MF	29	14	481	34	20.6	5.3	4	58	0	10	25	2	2.07	13	10	+3	+0.56	-0.55	Matches
+Lauren	br BRA	DF	21	3	78	26	3.3	0.9	1	72	0	2	3	4	2.00	5	2	+3	+3.46	+2.55	Matches
+Regan Steigleder	no NOR	DF	25	3	72	24	3.1	0.8	1	45	0	2	14	11	2.33	1	1	0	0.00	-1.03	Matches
+Alex Pfeiffer	us USA	FW	16	10	138	14	5.9	1.5	0		0	10	14	5	2.00	5	6	-1	-0.65	-1.76	Matches
+Desiree Scott	ca CAN	MF	36	11	136	12	5.8	1.5	0		0	11	12	11	2.42	0	3	-3	-1.99	-3.17	Matches
+Kristen Hamilton	us USA	FW,MF	31	3	87	29	3.7	1.0	0		0	3	29	8	1.50	3	3	0	0.00	-1.04	Matches
+Hildah Magaia	za RSA	FW	29	6	50	8	2.1	0.6	0		0	6	8	3	2.17	1	1	0	0.00	-1.02	Matches
+Mwanalima Jereko	ke KEN	MF	26	3	45	15	1.9	0.5	0		0	3	15	5	1.00	0	2	-2	-4.00	-5.10	Matches
+Sophia Braun	ar ARG	DF	24	0					0		0	0		1							Matches
+Hanna Glas	se SWE	DF	30	0					0		0	0		1							Matches
+Jordan Silkowitz	us USA	GK	23	0					0		0	0		16							Matches
+Squad Total			27.1	26	2,340	90	100	26.0	286	82	169	119	20	115	2.12	57	31	+26	+1.00		
+Opponent Total			27.0	26	2,340	90	100	26.0	286	82	181	104	22	126	0.62	31	57	-26	-1.00		
+Totals may not be complete for all senior-level play, see coverage note.
+Miscellaneous Stats 2024 Kansas City Current: NWSL 
+GlossaryToggle Per90 Stats
+Performance	
+Player	Nation	Pos	Age	90s	CrdY	CrdR	2CrdY	Fls	Fld	Off	Crs	Int	TklW	PKwon	PKcon	OG	Matches
+Temwa Chaŵinga	mw MWI	MF,FW	25	23.8	1	0	0	35	25	14	21	9	29			0	Matches
+Lo'eau LaBonta	us USA	MF	30	21.3	2	0	0	20	28	0	12	34	30			0	Matches
+Hailie Mace	us USA	DF	26	20.0	5	0	0	16	11	0	32	38	36			0	Matches
+Vanessa DiBernardo	us USA	MF,FW	31	17.0	3	0	0	19	9	1	70	25	26			0	Matches
+Claire Hutton	us USA	MF	18	18.4	3	0	0	22	14	1	2	34	38			0	Matches
+Izzy Rodriguez	us USA	DF	24	16.8	1	0	0	14	10	1	103	37	24			0	Matches
+Adrianna Franch	us USA	GK	33	17.0	1	0	0	1	0	0	0	0	0			0	Matches
+Debinha	br BRA	MF,FW	32	16.3	0	0	0	4	9	6	39	17	18			0	Matches
+Michelle Cooper	us USA	MF,FW	21	14.9	2	0	0	26	26	3	50	12	22			0	Matches
+Ellie Wheeler	us USA	DF,MF	22	15.9	2	0	0	13	14	2	34	22	23			0	Matches
+Elizabeth Ball	us USA	DF	28	13.6	0	0	0	8	1	0	1	14	13			0	Matches
+Stine Ballisager Pedersen	dk DEN	DF	30	11.9	0	0	0	9	7	0	0	9	6			0	Matches
+Gabrielle Robinson	us USA	DF	22	10.3	2	0	0	8	9	0	1	19	14			0	Matches
+Beatriz	br BRA	FW	30	9.6	0	0	0	14	17	4	10	4	13			0	Matches
+Alana Cook	us USA	DF	26	9.5	1	0	0	7	3	0	0	16	10			1	Matches
+Almuth Schult	de GER	GK	32	9.0	0	0	0	0	3	0	0	0	0			0	Matches
+Nichelle Prince	ca CAN	FW,MF	28	8.1	0	0	0	11	3	13	15	10	13			0	Matches
+Kayla Sharples	us USA	DF	26	7.7	0	0	0	2	3	0	0	14	5			0	Matches
+Alexa Spaanstra	us USA	MF,FW	23	6.6	1	0	0	3	6	0	7	3	5			0	Matches
+Bayley Feist	us USA	MF	26	6.4	0	0	0	8	4	1	7	11	14			0	Matches
+Claire Lavogez	fr FRA	FW,MF	29	5.3	2	0	0	14	11	4	11	2	9			0	Matches
+Lauren	br BRA	DF	21	0.9	0	0	0	1	0	0	0	2	1			0	Matches
+Regan Steigleder	no NOR	DF	25	0.8	0	0	0	0	0	0	2	1	1			0	Matches
+Alex Pfeiffer	us USA	FW	16	1.5	0	0	0	1	1	1	3	0	2			0	Matches
+Desiree Scott	ca CAN	MF	36	1.5	0	0	0	1	0	0	0	1	3			0	Matches
+Kristen Hamilton	us USA	FW,MF	31	1.0	0	0	0	0	1	0	1	0	1			0	Matches
+Hildah Magaia	za RSA	FW	29	0.6	1	0	0	1	1	0	0	1	4			0	Matches
+Mwanalima Jereko	ke KEN	MF	26	0.5	0	0	0	2	0	0	2	0	2			0	Matches
+Squad Total			27.1	26.0	27	0	0	271	223	51	445	340	373	3	1	2	
+Opponent Total			27.0	26.0	28	2	1	234	263	21	412	268	301	1	3	1	
+Totals may not be complete for all senior-level play, see coverage note.
+Regular Season, NWSL 
+promoted, relegated, Cup QualifierView Complete League Table Glossary
+OverallHome/Away
+Rk	Squad	MP	W	D	L	GF	GA	GD	Pts	Pts/MP	Attendance	Top Team Scorer	Goalkeeper	Notes
+2	Club Crest Washington Spirit	26	18	2	6	51	28	+23	56	2.15	16,901	Trinity Rodman, Ouleymata Sarr - 8	Aubrey Kingsbury	→ Quarterfinals
+3	Club Crest Gotham FC	26	17	5	4	41	20	+21	56	2.15	10,499	Esther González - 9	Ann-Katrin Berger	→ Quarterfinals
+4	Club Crest Current	26	16	7	3	57	31	+26	55	2.12	12,385	Temwa Chaŵinga - 20	Adrianna Franch	→ Quarterfinals
+5	Club Crest NC Courage	26	12	3	11	34	28	+6	39	1.50	6,362	Ashley Sanchez - 5	Casey Murphy	→ Quarterfinals
+6	Club Crest Portland Thorns	26	10	4	12	37	35	+2	34	1.31	18,725	Sophia Wilson - 12	Shelby Hogan	→ Quarterfinals
+Quarterfinals
+Result
+Club Crest Current
+1–0
+NC Courage Club Crest
+Current won match in normal time and advance to Semifinals.
+Semifinals
+Result
+Club Crest Orlando Pride
+3–2
+Current Club Crest
