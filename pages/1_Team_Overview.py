@@ -1,7 +1,7 @@
 import streamlit as st
 import base64, os
 import pandas as pd
-from utils.cache import load_standings, load_schedule, get_available_seasons
+from utils.cache import load_standings, load_schedule, get_available_seasons, load_season_history
 from utils.charts import standings_bar, goals_bar, results_timeline
 from utils.constants import COLORS
 
@@ -53,12 +53,16 @@ if not completed.empty:
     ga     = completed["opp_goals"].sum() if "opp_goals" in completed.columns else 0
     pts    = wins * 3 + draws
 
-    # Only use standings for league position (current season only)
+    # Look up position from season_history (has 2024 & 2025 records)
     position = "—"
-    if not standings.empty and "is_kc" in standings.columns and (sel_season == "All" or str(sel_season) == str(seasons[0] if seasons else "")):
-        kc_row = standings[standings["is_kc"] == True]
-        if not kc_row.empty:
-            position = f"#{int(kc_row.iloc[0].get('position', '?'))}"
+    history = load_season_history()
+    if not history.empty and "season" in history.columns and "position" in history.columns:
+        if sel_season != "All":
+            hist_row = history[history["season"].astype(str) == str(sel_season)]
+        else:
+            hist_row = history[history["season"] == history["season"].max()]
+        if not hist_row.empty:
+            position = f"#{int(hist_row.iloc[0]['position'])}"
 
     c1,c2,c3,c4,c5,c6,c7 = st.columns(7)
     c1.metric("Position",      position)
