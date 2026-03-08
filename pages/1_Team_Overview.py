@@ -40,25 +40,37 @@ with fcol1:
     sel_season = st.selectbox("Season", ["All"] + seasons, index=1 if seasons else 0)
 schedule = load_schedule(sel_season) if sel_season != "All" else schedule_all
 
-# ── KC row from standings ──────────────────────────────────────────────────────
-kc = pd.DataFrame()
-if not standings.empty and "is_kc" in standings.columns:
-    kc = standings[standings["is_kc"] == True]
 
-# ── KPI scorecards ─────────────────────────────────────────────────────────────
+# ── KPI scorecards (computed from season-filtered schedule) ───────────────────
 st.subheader("Season at a Glance")
-if not kc.empty:
-    row = kc.iloc[0]
+completed = schedule[schedule["result"].isin(["W","D","L"])] if not schedule.empty and "result" in schedule.columns else pd.DataFrame()
+
+if not completed.empty:
+    wins   = (completed["result"] == "W").sum()
+    draws  = (completed["result"] == "D").sum()
+    losses = (completed["result"] == "L").sum()
+    gf     = completed["kc_goals"].sum()  if "kc_goals"  in completed.columns else 0
+    ga     = completed["opp_goals"].sum() if "opp_goals" in completed.columns else 0
+    pts    = wins * 3 + draws
+
+    # Only use standings for league position (current season only)
+    position = "—"
+    if not standings.empty and "is_kc" in standings.columns and (sel_season == "All" or str(sel_season) == str(seasons[0] if seasons else "")):
+        kc_row = standings[standings["is_kc"] == True]
+        if not kc_row.empty:
+            position = f"#{int(kc_row.iloc[0].get('position', '?'))}"
+
     c1,c2,c3,c4,c5,c6,c7 = st.columns(7)
-    c1.metric("Position",      f"#{int(row.get('position','?'))}")
-    c2.metric("Points",        int(row.get("points",   0)))
-    c3.metric("Wins",          int(row.get("wins",     0)))
-    c4.metric("Draws",         int(row.get("draws",    0)))
-    c5.metric("Losses",        int(row.get("losses",   0)))
-    c6.metric("Goals For",     int(row.get("goals_for",    0)))
-    c7.metric("Goals Against", int(row.get("goals_against",0)))
+    c1.metric("Position",      position)
+    c2.metric("Points",        int(pts))
+    c3.metric("Wins",          int(wins))
+    c4.metric("Draws",         int(draws))
+    c5.metric("Losses",        int(losses))
+    c6.metric("Goals For",     int(gf))
+    c7.metric("Goals Against", int(ga))
 else:
-    st.info("Standings data not available — run `python run_pipeline.py`")
+    st.info("No match data for this season — run `python run_pipeline.py`")
+
 
 st.divider()
 
